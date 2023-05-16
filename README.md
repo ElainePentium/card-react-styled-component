@@ -1,4 +1,4 @@
-!(card-img)[https://miro.medium.com/v2/resize:fit:720/format:webp/1*sxq2qL39ScdZZgBpZ6aVNw.png]
+![card-img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*sxq2qL39ScdZZgBpZ6aVNw.png)
 
 # Tips & Best Practices
 
