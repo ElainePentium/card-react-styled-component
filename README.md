@@ -1,5 +1,7 @@
 ![card-img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*sxq2qL39ScdZZgBpZ6aVNw.png)
 
+[from](https://uxplanet.org/ultimate-guide-for-designing-ui-cards-59488a91b44f)
+
 # Tips & Best Practices
 
 1. Use relevant image
