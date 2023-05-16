@@ -22,5 +22,5 @@ From [uxplanet.org](https://uxplanet.org/ultimate-guide-for-designing-ui-cards-5
 
 ![carousel](https://bashooka.com/wp-content/uploads/2015/08/card-ui-designs-30.jpg)
 
-![meteo](https://bashooka.com/wp-content/uploads/2015/08/card-ui-designs-5.jpg)
+![meteo](https://bashooka.com/wp-content/uploads/2015/08/card-ui-designs-5.jpg)  
 From [bashooka.com](https://bashooka.com/inspiration/30-brilliant-examples-of-ui-cards/)
