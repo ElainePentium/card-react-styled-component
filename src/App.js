@@ -1,12 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import recipeItems from './data';
+import RecipeList from './components/RecipeList';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-
-      </header>
+      {/* <h1>Styled-Component Cards</h1> */}
+      <RecipeList recipeItems={recipeItems} />
     </div>
   );
 }
